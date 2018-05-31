@@ -1,0 +1,12 @@
+Write a function called "countCharacter".
+
+Given a string input and a character, "countCharacter" returns the number of occurences of a given character in the given string.
+
+
+Copy and paste this outside the function to test it.
+
+var output = countCharacter('I am a hacker', 'a');
+console.log(output); // --> 3
+
+
+Use a for loop to scan through the string and compare the characters. 
